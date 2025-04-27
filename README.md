@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! 👋 I'm Sarah
+### 💻 Data Engineer | 📖 Writer | 🤖 NLP Enthusiast (especially Arabic NLP!)
 
-<!--
-**SarahYassine/SarahYassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ This profile is under construction... but great things are coming soon! ✨
 
-Here are some ideas to get you started:
+By day, I’m a Data Engineer building pipelines and working with data. By night, I transform into a bookworm 📚 and writer ✍️, crafting stories and articles in both Arabic and English.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m passionate about:
+
+🧠 NLP & Arabic Language Processing
+
+📊 Data Engineering & Pipeline Technologies
+
+⚡ Automating Things (when I’m not procrastinating…)
+
+### 🔧 Tech Stack
+🐍 Python | 📜 SQL | 🌪️ Airflow
+
+### 📂 About My Repos
+I work on Data Engineering & NLP projects but may take my time pushing them (thanks to procrastination 😅). I aim to update every month or two—depending on my energy levels! ⚡
+
+🚧 Currently: Building something cool… when inspiration strikes!
